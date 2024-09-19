@@ -10,13 +10,27 @@
 
 ---
 
+# Table of Contents
+
+- [🎉 About](#-about)
+- [🎯 Purpose](#-purpose)
+- [🚀 Getting Started](#-getting-started)
+  - [Launching the App](#launching-the-app)
+  - [Stopping the App](#stopping-the-app)
+- [✨ Features](#-features)
+- [📸 Screenshot](#-screenshot)
+- [🤔 Troubleshooting](#-troubleshooting)
+- [📧 Contact](#-contact)
+
+# 🎉 About
+
 Welcome to the **Activate MacOS** app! 🎉 This fun little app is designed to mimic the activation message you might see on Windows when you don't have a valid license. A playful nod to our friends using Windows!
 
 # 🎯 Purpose
 
-This app creates a window on your macOS desktop with a message that says: 
+This app creates a window on your macOS desktop with a message that says:
 
-- **"Activate MacOS"** 
+- **"Activate MacOS"**
 - **"Go to Settings to activate MacOS."**
 
 It's a humorous way to remind you of the activation screens found in other operating systems. 😉
@@ -25,18 +39,21 @@ It's a humorous way to remind you of the activation screens found in other opera
 
 ## Launching the App
 
-1. **Run the App**: 
+1. **Run the App**:
+
    - Simply build and run the app using Xcode or use prebuilt DMG. The window will appear on your screen with the activation message.
-   
-2. **Enjoy the View**: 
+
+2. **Enjoy the View**:
    - You should see a small, borderless window in the bottom-right corner of your screen displaying the activation message.
 
 ## Stopping the App
 
 1. **Open Terminal**:
+
    - Launch the Terminal app from your Applications folder or search for it using Spotlight.
 
 2. **Find the Process ID**:
+
    - Use the following command to find the process ID (PID) of the app:
      ```bash
      ps aux | grep ActivateApp
@@ -70,6 +87,14 @@ It's a humorous way to remind you of the activation screens found in other opera
 # 📧 Contact
 
 If you have any questions or feedback, feel free to reach out!
+
+# 📄 License
+
+This project is licensed under the AGPL v3 License - see the [LICENSE](LICENSE) file for details.
+
+# 🧑‍💻 Author
+
+- **Zarox28** - [GitHub](https://github.com/Zarox28)
 
 ---
 
