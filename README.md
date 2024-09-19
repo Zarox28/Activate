@@ -58,7 +58,7 @@ It's a humorous way to remind you of the activation screens found in other opera
      ```bash
      ps aux | grep ActivateApp
      ```
-   - Note the PID of the `ActivateApp` process.
+   - Note the PID of the `Activate` process.
 
 3. **Kill the Process**:
    - Execute the following command to stop the app:
