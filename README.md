@@ -15,6 +15,10 @@
 - [🎉 About](#-about)
 - [🎯 Purpose](#-purpose)
 - [🚀 Getting Started](#-getting-started)
+  - [Installing the App](#installing-the-app)
+    - [Install with Homebrew](#install-with-homebrew)
+    - [Download the DMG](#download-the-dmg)
+    - [Build the app](#build-the-app)
   - [Launching the App](#launching-the-app)
   - [Stopping the App](#stopping-the-app)
 - [✨ Features](#-features)
@@ -37,11 +41,44 @@ It's a humorous way to remind you of the activation screens found in other opera
 
 # 🚀 Getting Started
 
+## Installing the App
+
+### Install with Homebrew
+
+1. Run the following command in Terminal to tap the Homebrew formulae:
+   ```bash
+   brew tap Zarox28/homebrew-Zarox28
+   ```
+2. Install the app using the following command:
+   ```bash
+    brew install activate
+   ```
+
+### Download the DMG
+
+1. Download the prebuilt DMG from the [Releases](https://github.com/Zarox28/Activate/releases) page.
+
+2. Open the DMG file and drag the app to your Applications folder.
+
+### Build the app
+
+1. Open Terminal and run the following command:
+   ```bash
+   git clone https://github.com/Zarox28/Activate.git
+   ```
+2. Open it in Xcode.
+
+3. Build the project.
+
+4. Go to the Products folder in the project navigator.
+
+5. Move the app to your Applications folder.
+
 ## Launching the App
 
 1. **Run the App**:
 
-   - Simply build and run the app using Xcode or use prebuilt DMG. The window will appear on your screen with the activation message.
+   - Open the app from your Applications folder or search for it using Spotlight.
 
 2. **Enjoy the View**:
    - You should see a small, borderless window in the bottom-right corner of your screen displaying the activation message.
