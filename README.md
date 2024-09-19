@@ -45,14 +45,11 @@ It's a humorous way to remind you of the activation screens found in other opera
 
 ### Install with Homebrew
 
-1. Run the following command in Terminal to tap the Homebrew formulae:
-   ```bash
-   brew tap Zarox28/homebrew-Zarox28
-   ```
-2. Install the app using the following command:
-   ```bash
-    brew install activate
-   ```
+Install the app using the following command:
+
+```bash
+ brew install Zarox28/homebrew-Zarox28/Activate
+```
 
 ### Download the DMG
 
