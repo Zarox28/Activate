@@ -56,7 +56,7 @@ It's a humorous way to remind you of the activation screens found in other opera
 
    - Use the following command to find the process ID (PID) of the app:
      ```bash
-     ps aux | grep ActivateApp
+     ps aux | grep Activate
      ```
    - Note the PID of the `Activate` process.
 
