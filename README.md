@@ -1,4 +1,5 @@
 <div align="center">
+	<img src="assets/logo.png" width="200"/>
 	<h1>🚀 Activate MacOS App</h1>
 	<img src="https://img.shields.io/badge/swift-%23007ACC.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 	<img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge"/>
@@ -6,7 +7,7 @@
 
 <br />
 
-> Version: **1.0.0**
+> Version: **1.1.0**
 
 ---
 
