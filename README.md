@@ -7,7 +7,7 @@
 
 <br />
 
-> Version: **1.1.0**
+> Version: **1.2.0**
 
 ---
 
@@ -83,24 +83,12 @@ Install the app using the following command:
 
 ## Stopping the App
 
-1. **Open Terminal**:
+1. **Right-Click on window**:
 
-   - Launch the Terminal app from your Applications folder or search for it using Spotlight.
+   - Right-click on the window to reveal the context menu.
 
-2. **Find the Process ID**:
-
-   - Use the following command to find the process ID (PID) of the app:
-     ```bash
-     ps aux | grep Activate
-     ```
-   - Note the PID of the `Activate` process.
-
-3. **Kill the Process**:
-   - Execute the following command to stop the app:
-     ```bash
-     kill -9 <PID>
-     ```
-   - Replace `<PID>` with the actual process ID you found earlier.
+2. **Select "Quit App"**:
+   - Click on the "Quit App" option to close the app.
 
 # ✨ Features
 
