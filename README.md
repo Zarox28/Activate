@@ -49,7 +49,7 @@ It's a humorous way to remind you of the activation screens found in other opera
 Install the app using the following command:
 
 ```bash
- brew install Zarox28/homebrew-Zarox28/Activate
+ brew install zarox28/apps/activate
 ```
 
 ### Download the DMG
