@@ -96,16 +96,20 @@ Install the app using the following command:
 - **No Window Buttons**: All standard window buttons (minimize, zoom, close) are hidden to keep it sleek.
 - **Floating Window**: The window stays above other windows, ensuring you don't miss it!
 
-# 📸 Screenshot
+# 📸 Screenshots
 
 <div align="center">
-	<img src="assets/screenshot.png" width="500"/>
+	<img src="assets/running.png" width="500"/>
+</div>
+
+<div align="center">
+  <img src="assets/stop.png" width="500"/>
 </div>
 
 # 🤔 Troubleshooting
 
 - **Window Not Appearing**: Ensure you run the app from Xcode or use the prebuilt DMG. If the window doesn't appear, try restarting the app.
-- **Can't Kill the Process**: Make sure you're using the correct PID and have the necessary permissions in Terminal.
+- **Can't Quit App**: If you can't quit the app, try force-quitting it from the Activity Monitor.
 
 # 📧 Contact
 
