@@ -23,7 +23,9 @@
   - [Launching the App](#launching-the-app)
   - [Stopping the App](#stopping-the-app)
 - [✨ Features](#-features)
-- [📸 Screenshot](#-screenshot)
+- [📸 Screenshots](#-screenshots)
+  - [Running the App](#running-the-app)
+  - [Stopping the App](#stopping-the-app)
 - [🤔 Troubleshooting](#-troubleshooting)
 - [📧 Contact](#-contact)
 
@@ -98,9 +100,13 @@ Install the app using the following command:
 
 # 📸 Screenshots
 
+## Running the App
+
 <div align="center">
 	<img src="assets/running.png" width="500"/>
 </div>
+
+## Stopping the App
 
 <div align="center">
   <img src="assets/stop.png" width="500"/>
